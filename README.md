@@ -1,4 +1,4 @@
-In this assignment, we will programmatically generate tables for permutations P(n, r) and combinations C(n, r), as well as count various hands for the game of Poker. 
+In this project, we will programmatically generate tables for permutations P(n, r) and combinations C(n, r), as well as count various hands for the game of Poker. 
 
 [1] Create a function print_table(name, func, n) that prints a (n+1) x (n+1) table for the function f(i, j) where both i and j iterate over 0 thru n inclusive. 
 
